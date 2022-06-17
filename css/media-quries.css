@@ -1,0 +1,25 @@
+@media (max-width : 768px) {
+  h1 {
+    font-size: 6rem;
+  }
+  .skill-row {
+    flex-direction: column;
+    width: 75%;
+    align-items: flex-start;
+  }
+
+.skill-description {
+  padding: 0;
+}
+
+  .profile {
+    width: 75%;
+
+  }
+  .profile_description{
+    width: 100%;
+  }
+  .project {
+    width: 100%;
+  }
+}
